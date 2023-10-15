@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.02b773c7.css",
+    "main.js": "/static/js/main.fc747cb0.js",
+    "static/media/patisserie.jpg": "/static/media/patisserie.208430f99b44b32322ad.jpg",
+    "static/media/patisserie-reserv.jpg": "/static/media/patisserie-reserv.30a7497946ac3013d6e5.jpg",
+    "static/media/boulangerie.jpg": "/static/media/boulangerie.66ec96d31b713d7eb07c.jpg",
+    "index.html": "/index.html",
+    "main.02b773c7.css.map": "/static/css/main.02b773c7.css.map",
+    "main.fc747cb0.js.map": "/static/js/main.fc747cb0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02b773c7.css",
+    "static/js/main.fc747cb0.js"
+  ]
+}
